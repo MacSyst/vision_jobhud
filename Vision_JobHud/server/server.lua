@@ -1,6 +1,6 @@
 -- Made By Benni (Vision-Service) with <3 for the Community.
 
-ESX = exports["es_extended"]:getSharedObject()
+SetConvarServerInfo('tags', 'Vision-Scripts')
 
 local xPlayer = ESX.GetPlayerFromId(source)
 
